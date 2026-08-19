@@ -10,3 +10,9 @@ body{
     color: darkkhaki;
     text-align: center;
 }
+.container{
+    min-width: 400px;
+    max-width: 1200px;
+    background-color: slateblue;
+    margin: 0 auto;
+}
